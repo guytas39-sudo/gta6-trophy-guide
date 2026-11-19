@@ -1,0 +1,1051 @@
+{
+ "game": "Grand Theft Auto VI",
+ "platform": "PlayStation 5",
+ "list": "the official 55 trophies, 2026-11-18",
+ "about": "Names, descriptions and grades are the official PlayStation list, exactly as published. Hidden flags follow the Exophase / PSNProfiles list as mirrored by Planet GTA 6 (28 hidden: 27 bronze and the gold You Gotta Know When to Get Off). Guides are written for this app in our own words and cite their sources per trophy; anything not confirmed at launch is labelled as reported or inferred, never stated as fact.",
+ "sources": [
+  { "name": "PowerPyx — GTA VI Trophy Guide & Roadmap", "url": "", "note": "Method facts: tracked counts, unlock chains, the Chapter 1 meditation warning, 4/10 difficulty and the ~200 hour estimate." },
+  { "name": "GTABase — GTA VI Trophies & Achievements", "url": "", "note": "The trophy list, Gamerscore values and the chapter placement of story missions." },
+  { "name": "Planet GTA 6 — GTA VI trophy list", "url": "", "note": "Mirror of the Exophase / PSNProfiles list, including which trophies are hidden." },
+  { "name": "Output Lag — GTA 6 Trophy List", "url": "https://outputlag.com/guides/gta-6-trophy-list/", "note": "Visible/hidden split, the Chapter 1 balcony meditation, and the no-mission-replay save advice." },
+  { "name": "EGamers.io — GTA 6 Trophy List", "url": "https://egamers.io/gta-6-trophy-list-all-55-trophies-and-achievements-plus-the-hardest-ones/", "note": "Grade split of hidden vs visible trophies and hardest-trophy notes." },
+  { "name": "U7Buy — GTA 6 Trophies and Achievements Guide", "url": "https://www.u7buy.com/blog/gta-6-trophies/", "note": "Full list with the hidden table and the ~200 hour Platinum estimate." },
+  { "name": "GTA Zone — GTA 6 Trophy List", "url": "https://gta-zone.com/news/gta-6-trophies-achievements/", "note": "Hidden table and the Criminal Profile note for Actions Speak Louder." }
+ ],
+ "trophies": [
+  {
+   "id": 1,
+   "name": "Vice Got a Price!",
+   "description": "Congratulations! You're a Leonida Legend.",
+   "grade": "platinum",
+   "kind": "completion",
+   "hidden": false,
+   "missable": false,
+   "missableNote": "",
+   "stage": 7,
+   "target": null,
+   "guide": "The platinum itself: it unlocks on its own the moment the other 54 trophies are all earned, so there is nothing separate to hunt. In practice the last two to land are usually A Long Road (100% completion) and the final-mission gold, so treat this as the finish line of the roadmap rather than a task. If everything else is ticked and it has not popped, re-check the hidden trophies — the spoiler shield in this app exists precisely because 28 of them are easy to lose track of.",
+   "steps": [
+    "Earn the other 54 trophies; this one follows automatically.",
+    "Work the roadmap stages in order so the long grinds overlap the story.",
+    "Use the grade counters above to confirm 1 gold is not still hiding in the story list."
+   ],
+   "sources": "PowerPyx — GTA VI Trophy Guide & Roadmap; GTABase — GTA VI Trophies & Achievements."
+  },
+  {
+   "id": 2,
+   "name": "Just Like Paradise",
+   "description": "Complete Gone Fishing.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "missableNote": "",
+   "stage": 2,
+   "target": null,
+   "guide": "Story-related and unmissable: finish Gone Fishing, the opening mission of the campaign, and the trophy lands as the mission wraps up. It is hidden on PlayStation, so do not worry that it is not visible in your list beforehand. There is nothing to prepare — just start the story.",
+   "steps": [
+    "Begin the campaign and play the opening mission, Gone Fishing.",
+    "Finish the mission; the trophy pops on completion."
+   ],
+   "sources": "GTABase — GTA VI Trophies & Achievements; Planet GTA 6 (hidden list, mirrored from Exophase / PSNProfiles)."
+  },
+  {
+   "id": 3,
+   "name": "Paradise Lost",
+   "description": "Complete Chapter 1.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "missableNote": "",
+   "stage": 2,
+   "target": null,
+   "guide": "Finish Chapter 1 of the story. Before you close the chapter out, do the Chapter 1 meditation at the house (the balcony spot) — that single spot is the one piece of Positive Mental Attitude that sources say cannot be revisited later, and it is far cheaper to grab it now than to restart. Keep a manual save at the chapter's start as insurance, per the ground rules in the roadmap.",
+   "steps": [
+    "Play through Chapter 1's missions in order.",
+    "Before finishing the chapter, meditate at the Chapter 1 spot at the house (see Positive Mental Attitude).",
+    "Complete the chapter's final mission; the trophy pops on completion."
+   ],
+   "sources": "PowerPyx — GTA VI Trophy Guide & Roadmap (Chapter 1 meditation); GTABase — GTA VI Trophies & Achievements."
+  },
+  {
+   "id": 4,
+   "name": "T**s Ass Drug Money",
+   "description": "Complete Chapter 2.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "missableNote": "",
+   "stage": 2,
+   "target": null,
+   "guide": "Finish Chapter 2 of the story. From this chapter both protagonists are playable, which is also what unlocks the partner trophies elsewhere in the list (Hot Together, Retail Therapy), so it is a natural point to start mixing free-roam feats into your sessions. The chapter trophy itself is unmissable.",
+   "steps": [
+    "Play through Chapter 2's missions in order.",
+    "Complete the chapter's final mission; the trophy pops on completion."
+   ],
+   "sources": "GTABase — GTA VI Trophies & Achievements; Output Lag — GTA 6 Trophy List (both protagonists playable from Chapter 2)."
+  },
+  {
+   "id": 5,
+   "name": "Vice City, Baby!",
+   "description": "Complete Chapter 3.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "missableNote": "",
+   "stage": 2,
+   "target": null,
+   "guide": "Finish Chapter 3 of the story. The Cartel Heist (Break the Bank) takes place during this chapter, so that hidden mission trophy arrives on the way. Keep the chapter-start manual save habit going; there is still no mission replay to fall back on.",
+   "steps": [
+    "Play through Chapter 3's missions, including The Cartel Heist.",
+    "Complete the chapter's final mission; the trophy pops on completion."
+   ],
+   "sources": "GTABase — GTA VI Trophies & Achievements (chapter placement of The Cartel Heist); PowerPyx — GTA VI Trophy Guide & Roadmap."
+  },
+  {
+   "id": 6,
+   "name": "Top Of The World, Ma",
+   "description": "Complete Chapter 4.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "missableNote": "",
+   "stage": 2,
+   "target": null,
+   "guide": "Finish Chapter 4 of the story. VCIA Takedown (Hi-Jacked) belongs to this chapter, so expect that hidden trophy on the way through. By now most of Leonida is open — a good moment to sweep meditation spots and WAiNK locations in each new area before pushing on.",
+   "steps": [
+    "Play through Chapter 4's missions, including VCIA Takedown.",
+    "Complete the chapter's final mission; the trophy pops on completion."
+   ],
+   "sources": "GTABase — GTA VI Trophies & Achievements (chapter placement of VCIA Takedown); PowerPyx — GTA VI Trophy Guide & Roadmap."
+  },
+  {
+   "id": 7,
+   "name": "You Gotta Know When to Get Off",
+   "description": "Complete the final mission.",
+   "grade": "gold",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "missableNote": "",
+   "stage": 2,
+   "target": null,
+   "guide": "The story gold: finish the final mission of the campaign (the end of Chapter 5). It is the one hidden gold in the list. Before you start the finale, park a manual save — there is no mission replay, and a pre-finale save is the cheapest insurance in the whole run. Everything story-related is done once this pops; what remains is strands, checklist and grinds.",
+   "steps": [
+    "Make a manual save before starting the final mission.",
+    "Play the final mission to the credits; the trophy pops on completion."
+   ],
+   "sources": "GTABase — GTA VI Trophies & Achievements; Output Lag — GTA 6 Trophy List (no mission replay; save before the final mission)."
+  },
+  {
+   "id": 8,
+   "name": "Trust",
+   "description": "Complete Breakfast Run.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "missableNote": "",
+   "stage": 2,
+   "target": null,
+   "guide": "Story-related and unmissable: complete the mission Breakfast Run when it comes up in the campaign. Like the other named-mission bronzes it is hidden on PlayStation, so it will simply appear as you play.",
+   "steps": [
+    "Reach the mission Breakfast Run in the story.",
+    "Finish it; the trophy pops on completion."
+   ],
+   "sources": "GTABase — GTA VI Trophies & Achievements; Planet GTA 6 (hidden list)."
+  },
+  {
+   "id": 9,
+   "name": "Break the Bank",
+   "description": "Complete The Cartel Heist.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "missableNote": "",
+   "stage": 2,
+   "target": null,
+   "guide": "Story-related and unmissable: complete The Cartel Heist, a Chapter 3 mission. It arrives as part of the campaign, so no setup is needed beyond reaching it.",
+   "steps": [
+    "Reach The Cartel Heist in Chapter 3.",
+    "Finish the heist; the trophy pops on completion."
+   ],
+   "sources": "GTABase — GTA VI Trophies & Achievements (The Cartel Heist is a Chapter 3 mission); Planet GTA 6 (hidden list)."
+  },
+  {
+   "id": 10,
+   "name": "Family Matters",
+   "description": "Complete Child's Play.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "missableNote": "",
+   "stage": 2,
+   "target": null,
+   "guide": "Story-related and unmissable: complete the mission Child's Play when the campaign brings you to it. Hidden on PlayStation like the other named-mission trophies.",
+   "steps": [
+    "Reach the mission Child's Play in the story.",
+    "Finish it; the trophy pops on completion."
+   ],
+   "sources": "GTABase — GTA VI Trophies & Achievements; Planet GTA 6 (hidden list)."
+  },
+  {
+   "id": 11,
+   "name": "DWNFALL",
+   "description": "Complete Headliners.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "missableNote": "",
+   "stage": 2,
+   "target": null,
+   "guide": "Story-related and unmissable: complete the mission Headliners during the campaign. Nothing to prepare; it pops as the mission ends.",
+   "steps": [
+    "Reach the mission Headliners in the story.",
+    "Finish it; the trophy pops on completion."
+   ],
+   "sources": "GTABase — GTA VI Trophies & Achievements; Planet GTA 6 (hidden list)."
+  },
+  {
+   "id": 12,
+   "name": "Hi-Jacked",
+   "description": "Complete VCIA Takedown.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "missableNote": "",
+   "stage": 2,
+   "target": null,
+   "guide": "Story-related and unmissable: complete VCIA Takedown, a Chapter 4 mission set around the airport (VCIA). Not to be confused with the free-roam Catch Me If You Can, which also involves VCIA but is a separate, do-anytime trophy.",
+   "steps": [
+    "Reach VCIA Takedown in Chapter 4.",
+    "Finish the mission; the trophy pops on completion."
+   ],
+   "sources": "GTABase — GTA VI Trophies & Achievements (VCIA Takedown is a Chapter 4 mission); Planet GTA 6 (hidden list)."
+  },
+  {
+   "id": 13,
+   "name": "Snow Storm",
+   "description": "Complete Operation Savage Glory.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "missableNote": "",
+   "stage": 2,
+   "target": null,
+   "guide": "Story-related and unmissable: complete Operation Savage Glory, a Chapter 5 mission on the run-in to the finale. Make sure your pre-finale manual save exists before you push past it.",
+   "steps": [
+    "Reach Operation Savage Glory in Chapter 5.",
+    "Finish the mission; the trophy pops on completion."
+   ],
+   "sources": "GTABase — GTA VI Trophies & Achievements (Operation Savage Glory is a Chapter 5 mission); Planet GTA 6 (hidden list)."
+  },
+  {
+   "id": 14,
+   "name": "A Long Road",
+   "description": "Attain 100% Completion.",
+   "grade": "gold",
+   "kind": "completion",
+   "hidden": false,
+   "missable": false,
+   "missableNote": "",
+   "stage": 4,
+   "target": null,
+   "guide": "The second gold and, with the platinum, the real finish line: reach 100% on the game's own completion checklist. The efficient route is to let the story unlock the map and systems first, then sweep category by category — strands, activities, collectibles, challenges — using this app's kind filters as your checklist mirror. Most other trophies in the list are ingredients of this one, so if you work the roadmap in order, this pops near the end almost by itself. Reported as the hardest trophy in the list, purely for the hours it takes.",
+   "steps": [
+    "Finish the story first so every area and activity is unlocked.",
+    "Sweep the in-game 100% checklist category by category (strands, activities, collectibles, challenges).",
+    "Cross off each category in this tracker as you close it out; the trophy pops at 100%."
+   ],
+   "sources": "PowerPyx — GTA VI Trophy Guide & Roadmap (100% checklist); EGamers.io — GTA 6 Trophy List (hardest trophy)."
+  },
+  {
+   "id": 15,
+   "name": "Cunning Stunts",
+   "description": "Complete 250 Stunts.",
+   "grade": "silver",
+   "kind": "activities",
+   "hidden": false,
+   "missable": false,
+   "missableNote": "",
+   "stage": 5,
+   "target": { "count": 250, "unit": "stunts" },
+   "guide": "Land 250 stunts — the game's stunt jumps and unique stunt spots scattered across Leonida. This is a marathon, not a sprint: the painless way is to hit every stunt you pass while travelling for other goals, then mop up the remainder with a dedicated sweep once the map is fully open. Use the counter on this card to pace yourself; PlayStation tracks the total, so no single session has to carry it.",
+   "steps": [
+    "Take stunt jumps opportunistically whenever you pass one during other tasks.",
+    "Keep a fast, durable vehicle handy for long run-ups.",
+    "Sweep the remaining spots region by region once the story is done."
+   ],
+   "sources": "PowerPyx — GTA VI Trophy Guide & Roadmap; official description (PlayStation tracks the count to 250)."
+  },
+  {
+   "id": 16,
+   "name": "Master of None",
+   "description": "Try each type of activity once.",
+   "grade": "bronze",
+   "kind": "activities",
+   "hidden": false,
+   "missable": false,
+   "missableNote": "",
+   "stage": 4,
+   "target": { "count": 9, "unit": "activity types" },
+   "guide": "Sample every type of activity once — all 9 activity types the game offers. You do not need to win or finish most of them, just take part. This is also the best orientation tour of the side content: whatever you enjoy here is what the grinds later ask more of. Tick each type off on this card as you try it.",
+   "steps": [
+    "Open the map and note each distinct activity icon type.",
+    "Play one round/session of each of the 9 types.",
+    "The trophy pops when the last new type is tried."
+   ],
+   "sources": "Official description; PowerPyx — GTA VI Trophy Guide & Roadmap (9 activity types)."
+  },
+  {
+   "id": 17,
+   "name": "The Shootist",
+   "description": "Earn a gold medal in all Shooting Range challenges.",
+   "grade": "silver",
+   "kind": "activities",
+   "hidden": false,
+   "missable": false,
+   "missableNote": "",
+   "stage": 5,
+   "target": { "count": 42, "unit": "range golds" },
+   "guide": "Gold-medal every Shooting Range challenge — 42 of them across the ranges. Treat each weapon class separately: learn a challenge's target pattern with a couple of sighting runs, then chase the gold once the rhythm is familiar. Accuracy streaks matter more than raw speed in most range scoring, so slow down before you speed up. This is one of the few skill-based silvers; budget several focused sessions for it.",
+   "steps": [
+    "Unlock the shooting ranges and run each challenge once to learn its targets.",
+    "Practise per weapon class until your scores sit near the gold line.",
+    "Repeat each challenge until it medals gold; tick the counter as you go."
+   ],
+   "sources": "PowerPyx — GTA VI Trophy Guide & Roadmap (42 Shooting Range challenges); official description."
+  },
+  {
+   "id": 18,
+   "name": "Top Fun",
+   "description": "Win a Top Fun Drone Race at every location.",
+   "grade": "bronze",
+   "kind": "activities",
+   "hidden": false,
+   "missable": false,
+   "missableNote": "",
+   "stage": 4,
+   "target": { "count": 14, "unit": "locations won" },
+   "guide": "Win a Top Fun drone race at every location — 14 venues. A win at each is enough; you do not need perfect runs. Learn each course with one exploratory flight, watching for the tight gates, then race it properly. Drone handling is consistent across venues, so the later locations go much faster than the first.",
+   "steps": [
+    "Visit a Top Fun location and fly the course once to learn it.",
+    "Race again and take the win.",
+    "Repeat at all 14 locations; tick them off on this card."
+   ],
+   "sources": "PowerPyx — GTA VI Trophy Guide & Roadmap (14 Top Fun locations); official description."
+  },
+  {
+   "id": 19,
+   "name": "Earn Cash, Not Kudos",
+   "description": "Win 20 different races.",
+   "grade": "bronze",
+   "kind": "activities",
+   "hidden": false,
+   "missable": false,
+   "missableNote": "",
+   "stage": 4,
+   "target": { "count": 20, "unit": "different races won" },
+   "guide": "Win 20 different races — repeats of the same race do not stack, so variety is the whole job. Work through the race markers on the map one by one, bringing a vehicle suited to each class, and use this card's counter to keep track of how many distinct wins you have banked.",
+   "steps": [
+    "Pick a race on the map you have not won yet.",
+    "Win it with an appropriate vehicle.",
+    "Move to a new race each time until you reach 20 different wins."
+   ],
+   "sources": "Official description (PlayStation tracks the count); PowerPyx — GTA VI Trophy Guide & Roadmap."
+  },
+  {
+   "id": 20,
+   "name": "Baited My Tackle",
+   "description": "Beat Cal in a fishing challenge.",
+   "grade": "bronze",
+   "kind": "activities",
+   "hidden": false,
+   "missable": false,
+   "missableNote": "",
+   "stage": 4,
+   "target": null,
+   "guide": "Find Cal and beat him at his own fishing challenge. Learn the fishing loop first on ordinary catches — timing the hook and managing tension — then take the challenge on. If you lose, nothing is lost: the challenge can be retried, so treat early attempts as practice.",
+   "steps": [
+    "Practise fishing until hooking and reeling feel routine.",
+    "Find Cal and accept his fishing challenge.",
+    "Out-catch him; the trophy pops when you win."
+   ],
+   "sources": "Official description; PowerPyx — GTA VI Trophy Guide & Roadmap."
+  },
+  {
+   "id": 21,
+   "name": "Stick Fiddler",
+   "description": "Complete an arcade game.",
+   "grade": "bronze",
+   "kind": "activities",
+   "hidden": false,
+   "missable": false,
+   "missableNote": "",
+   "stage": 4,
+   "target": null,
+   "guide": "Finish one arcade game on any cabinet. Pick the shortest or simplest cabinet you find, play it through to completion rather than just starting it, and the trophy is yours. A five-minute detour whenever you pass an arcade.",
+   "steps": [
+    "Find an arcade cabinet in the world.",
+    "Play one game through to the end.",
+    "The trophy pops on completion."
+   ],
+   "sources": "Official description; PowerPyx — GTA VI Trophy Guide & Roadmap."
+  },
+  {
+   "id": 22,
+   "name": "Road to Rehabilitation",
+   "description": "Complete the final mission for Andy.",
+   "grade": "bronze",
+   "kind": "strangers",
+   "hidden": true,
+   "missable": false,
+   "missableNote": "",
+   "stage": 3,
+   "target": null,
+   "guide": "Finish Andy's stranger strand — every mission he gives, through to his final one. Strands unlock in stages as the story advances, so if Andy has nothing new for you, progress the campaign and check back. His strand also counts toward the Strangers & Freaks silver (8 strands). Hidden on PlayStation, like all the stranger finals.",
+   "steps": [
+    "Start Andy's strand from his map marker when it appears.",
+    "Complete each of his missions as they unlock.",
+    "Finish his final mission; the trophy pops on completion."
+   ],
+   "sources": "GTABase — GTA VI Trophies & Achievements; Planet GTA 6 (hidden list)."
+  },
+  {
+   "id": 23,
+   "name": "This Was No Boat Accident",
+   "description": "Complete the final mission for Kenton.",
+   "grade": "bronze",
+   "kind": "strangers",
+   "hidden": true,
+   "missable": false,
+   "missableNote": "",
+   "stage": 3,
+   "target": null,
+   "guide": "Finish Kenton's stranger strand through to his final mission. Work his missions whenever his marker is up, and push the story if the strand stalls — later steps often wait on chapter progress. Counts toward the Strangers & Freaks silver.",
+   "steps": [
+    "Start Kenton's strand from his map marker.",
+    "Complete each of his missions as they unlock.",
+    "Finish his final mission; the trophy pops on completion."
+   ],
+   "sources": "GTABase — GTA VI Trophies & Achievements; Planet GTA 6 (hidden list)."
+  },
+  {
+   "id": 24,
+   "name": "The Lone Rider",
+   "description": "Complete the final mission for Billy.",
+   "grade": "bronze",
+   "kind": "strangers",
+   "hidden": true,
+   "missable": false,
+   "missableNote": "",
+   "stage": 3,
+   "target": null,
+   "guide": "Finish Billy's stranger strand through to his final mission. As with the other strands, new steps can be gated behind story progress, so alternate strand work with campaign missions. Counts toward the Strangers & Freaks silver.",
+   "steps": [
+    "Start Billy's strand from his map marker.",
+    "Complete each of his missions as they unlock.",
+    "Finish his final mission; the trophy pops on completion."
+   ],
+   "sources": "GTABase — GTA VI Trophies & Achievements; Planet GTA 6 (hidden list)."
+  },
+  {
+   "id": 25,
+   "name": "Strangers & Freaks",
+   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+   "grade": "silver",
+   "kind": "strangers",
+   "hidden": false,
+   "missable": false,
+   "missableNote": "",
+   "stage": 3,
+   "target": { "count": 8, "unit": "strands completed" },
+   "guide": "Complete 8 full stranger mission strands anywhere in Leonida. The named strands with their own trophies — Andy, Kenton, Billy, Randy, Tyrone and Bret — are six of the eight, so finishing those plus any two more strands closes this out. Strands progress in stages and often pause until the story moves on, which is why the roadmap runs strands right after the campaign.",
+   "steps": [
+    "Pick up stranger strands from their map markers as they appear.",
+    "Finish the six named strands (Andy, Kenton, Billy, Randy, Tyrone, Bret).",
+    "Complete any two further strands to reach 8; tick each off here."
+   ],
+   "sources": "PowerPyx — GTA VI Trophy Guide & Roadmap; official description (PlayStation tracks the count to 8)."
+  },
+  {
+   "id": 26,
+   "name": "Supply & Demand",
+   "description": "Complete the final mission for Randy.",
+   "grade": "bronze",
+   "kind": "strangers",
+   "hidden": true,
+   "missable": false,
+   "missableNote": "",
+   "stage": 3,
+   "target": null,
+   "guide": "Finish Randy's stranger strand through to his final mission. Keep his marker in your rotation whenever you are in his part of the map, and advance the story if the strand pauses. Counts toward the Strangers & Freaks silver.",
+   "steps": [
+    "Start Randy's strand from his map marker.",
+    "Complete each of his missions as they unlock.",
+    "Finish his final mission; the trophy pops on completion."
+   ],
+   "sources": "GTABase — GTA VI Trophies & Achievements; Planet GTA 6 (hidden list)."
+  },
+  {
+   "id": 27,
+   "name": "Spin On This!",
+   "description": "Complete the final mission for Tyrone.",
+   "grade": "bronze",
+   "kind": "strangers",
+   "hidden": true,
+   "missable": false,
+   "missableNote": "",
+   "stage": 3,
+   "target": null,
+   "guide": "Finish Tyrone's stranger strand through to his final mission. Work the steps as they unlock and use story progress to unstick the strand if it stalls. Counts toward the Strangers & Freaks silver.",
+   "steps": [
+    "Start Tyrone's strand from his map marker.",
+    "Complete each of his missions as they unlock.",
+    "Finish his final mission; the trophy pops on completion."
+   ],
+   "sources": "GTABase — GTA VI Trophies & Achievements; Planet GTA 6 (hidden list)."
+  },
+  {
+   "id": 28,
+   "name": "Positive Mental Attitude",
+   "description": "Meditate at every spot across Leonida.",
+   "grade": "bronze",
+   "kind": "world",
+   "hidden": false,
+   "missable": true,
+   "missableNote": "Potentially missable — the only trophy flagged as such at launch. The Chapter 1 meditation spot at the house becomes permanently unavailable after Chapter 1 (PowerPyx, GTABase). Caveat: at launch its strict necessity was still being confirmed, so treat this as a strong warning, not settled fact — meditating in Chapter 1 costs a minute and removes the risk entirely.",
+   "stage": 2,
+   "target": { "count": 18, "unit": "meditation spots" },
+   "guide": "Meditate at all 18 meditation spots across Leonida. The catch is the very first one: the spot at the house in Chapter 1 (the balcony meditation) is offered during Chapter 1 and, per PowerPyx and GTABase, cannot be revisited once that chapter ends — do it before you finish Chapter 1. The remaining spots are free-roam and can be swept any time after the map opens; meditate as both characters where a spot offers the choice, and use this card's counter to track the 18.",
+   "steps": [
+    "During Chapter 1, meditate at the spot at the house before finishing the chapter.",
+    "Keep a manual save from the start of Chapter 1 as a fallback.",
+    "Sweep the remaining spots in free roam; tick the counter to 18."
+   ],
+   "sources": "PowerPyx — GTA VI Trophy Guide & Roadmap; GTABase — GTA VI Trophies & Achievements; Output Lag — GTA 6 Trophy List (Chapter 1 balcony meditation)."
+  },
+  {
+   "id": 29,
+   "name": "Fair Game",
+   "description": "Hunt a unique animal for Bret.",
+   "grade": "bronze",
+   "kind": "strangers",
+   "hidden": true,
+   "missable": false,
+   "missableNote": "",
+   "stage": 3,
+   "target": null,
+   "guide": "Complete Bret's strand by hunting the unique animal he sends you after. Follow his missions until the hunt itself unlocks, then track and take the animal down as the mission directs. It is the finale of Bret's strand, so it also counts toward the Strangers & Freaks silver.",
+   "steps": [
+    "Start Bret's strand from his map marker.",
+    "Complete his missions until the unique-animal hunt unlocks.",
+    "Complete the hunt; the trophy pops on completion."
+   ],
+   "sources": "GTABase — GTA VI Trophies & Achievements; Planet GTA 6 (hidden list)."
+  },
+  {
+   "id": 30,
+   "name": "Don't Touch My Deck",
+   "description": "Complete 3 Collectible Card sets.",
+   "grade": "silver",
+   "kind": "collectibles",
+   "hidden": false,
+   "missable": false,
+   "missableNote": "",
+   "stage": 4,
+   "target": { "count": 3, "unit": "card sets" },
+   "guide": "Complete 3 full Collectible Card sets. Cards are found one by one around Leonida, so this is a scavenger hunt: grab every card you spot while doing other work, and consult the in-game collection screen to see which sets are closest to done before hunting the stragglers. Three completed sets — not three cards — is the bar, so focus your hunting on finishing sets rather than spreading thin.",
+   "steps": [
+    "Pick up every collectible card you come across while exploring.",
+    "Check the collection screen to see which sets are nearest completion.",
+    "Hunt the missing cards for those sets until 3 sets are complete."
+   ],
+   "sources": "Official description; PowerPyx — GTA VI Trophy Guide & Roadmap."
+  },
+  {
+   "id": 31,
+   "name": "You WAiNKer!",
+   "description": "WAiNK It at 100 locations.",
+   "grade": "silver",
+   "kind": "collectibles",
+   "hidden": false,
+   "missable": false,
+   "missableNote": "",
+   "stage": 4,
+   "target": { "count": 100, "unit": "WAiNK locations" },
+   "guide": "Use the WAiNK app at 100 different locations. Like the meditation spots, this rewards steady exploration over one long grind: WAiNK every new viewpoint, landmark and hideout you visit while working through the rest of the list, and let the counter on this card tell you how close you are. A final region-by-region sweep mops up whatever is left.",
+   "steps": [
+    "WAiNK at each new notable location you visit during other tasks.",
+    "Watch the counter; revisit regions that feel under-sampled.",
+    "Sweep remaining areas until you reach 100 locations."
+   ],
+   "sources": "Official description (PlayStation tracks the count to 100); PowerPyx — GTA VI Trophy Guide & Roadmap."
+  },
+  {
+   "id": 32,
+   "name": "One Last Thing",
+   "description": "Complete 50 Challenges.",
+   "grade": "bronze",
+   "kind": "activities",
+   "hidden": false,
+   "missable": false,
+   "missableNote": "",
+   "stage": 5,
+   "target": { "count": 50, "unit": "challenges" },
+   "guide": "Complete 50 of the game's Challenges. Challenges overlap heavily with everything else on the list — races, stunts, robberies, exploration — so most of this total accrues while you work the other trophies. Check the challenges list late in the run and deliberately close out whichever short ones remain.",
+   "steps": [
+    "Let challenges complete naturally while you work other trophies.",
+    "Review the challenge list once the story and strands are done.",
+    "Target the shortest remaining challenges until you reach 50."
+   ],
+   "sources": "Official description (PlayStation tracks the count to 50); PowerPyx — GTA VI Trophy Guide & Roadmap."
+  },
+  {
+   "id": 33,
+   "name": "Hot Together",
+   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+   "grade": "bronze",
+   "kind": "world",
+   "hidden": false,
+   "missable": false,
+   "missableNote": "",
+   "stage": 5,
+   "target": null,
+   "guide": "A partner feat: with both protagonists together (possible once both are playable, from Chapter 2), build a 4-star wanted level, then lose it and fully escape while still together. Pick open ground near good escape routes — tunnels, alleys, off-road — raise the heat deliberately, then break line of sight and stay hidden until the stars clear. Doing it away from dense police areas makes the escape half much easier.",
+   "steps": [
+    "Bring both protagonists together in free roam.",
+    "Commit crimes until the wanted level reaches 4 stars.",
+    "Break line of sight and stay hidden until the wanted level fully clears."
+   ],
+   "sources": "Official description; Output Lag — GTA 6 Trophy List (both protagonists playable from Chapter 2)."
+  },
+  {
+   "id": 34,
+   "name": "Retail Therapy",
+   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+   "grade": "bronze",
+   "kind": "robberies",
+   "hidden": false,
+   "missable": false,
+   "missableNote": "",
+   "stage": 4,
+   "target": null,
+   "guide": "Chain three shop robberies with your partner in one unbroken wanted sequence: the wanted level must never fully clear between shops, or the chain resets. Plan a route of three shops close together before you start, rob the first, drive straight to the second while the heat is still on, then the third. Speed matters more than take — small, fast robberies keep the chain alive.",
+   "steps": [
+    "Scout three shops close together and plan the driving route.",
+    "With your partner, rob the first shop and keep the wanted level active.",
+    "Rob the second and third shops back-to-back before the heat clears."
+   ],
+   "sources": "Official description; PowerPyx — GTA VI Trophy Guide & Roadmap."
+  },
+  {
+   "id": 35,
+   "name": "Whip It Good",
+   "description": "Discover 100 vehicles.",
+   "grade": "bronze",
+   "kind": "collectibles",
+   "hidden": false,
+   "missable": false,
+   "missableNote": "",
+   "stage": 4,
+   "target": { "count": 100, "unit": "vehicles discovered" },
+   "guide": "Discover 100 different vehicles — getting into a new model registers it. The habit that earns this for free: never drive past a car you have not sat in. Swap vehicles whenever you arrive somewhere new, favour rich districts and car parks for variety, and let the counter confirm your progress. It also feeds On the Spot, since discovered vehicles are the ones you can register.",
+   "steps": [
+    "Get into any vehicle model you have not driven before.",
+    "Vary your hunting grounds — districts spawn different traffic.",
+    "Keep swapping until 100 vehicles are discovered."
+   ],
+   "sources": "Official description (PlayStation tracks the count to 100); PowerPyx — GTA VI Trophy Guide & Roadmap."
+  },
+  {
+   "id": 36,
+   "name": "Gunslinger",
+   "description": "Take down 5 enemies in a single use of Combat Focus.",
+   "grade": "bronze",
+   "kind": "world",
+   "hidden": false,
+   "missable": false,
+   "missableNote": "",
+   "stage": 5,
+   "target": null,
+   "guide": "Drop 5 enemies inside one Combat Focus activation. Set the stage before you trigger it: find a group of at least five hostiles clustered together — a gang spot or a mission firefight — line up your first targets, then activate Combat Focus and work through them without wasting the window on movement. A full Focus meter and a weapon with a healthy magazine make it considerably easier.",
+   "steps": [
+    "Find a group of 5+ enemies standing reasonably close together.",
+    "Position yourself with clear shots at all of them.",
+    "Activate Combat Focus and take down 5 before it ends."
+   ],
+   "sources": "Official description; PowerPyx — GTA VI Trophy Guide & Roadmap."
+  },
+  {
+   "id": 37,
+   "name": "Catch Me If You Can",
+   "description": "Make an unscheduled departure at VCIA.",
+   "grade": "bronze",
+   "kind": "world",
+   "hidden": true,
+   "missable": false,
+   "missableNote": "",
+   "stage": 4,
+   "target": null,
+   "guide": "Hidden on PlayStation. What we know is the description: make an unscheduled departure at VCIA, the international airport. Inferred (not confirmed at launch): the plain reading is taking off from the airport in an aircraft you have no clearance for — steal a plane on the airfield and get airborne. That is the community's working interpretation of the wording; if a stolen take-off does not pop it, try departing in a stolen helicopter instead. Do not confuse this with the story mission VCIA Takedown, which is a different trophy.",
+   "steps": [
+    "Head to VCIA (the airport) in free roam.",
+    "Take an aircraft without clearance — a parked plane is the plainest reading.",
+    "Get airborne and leave the airport; the trophy should pop on departure (inferred method — see guide)."
+   ],
+   "sources": "Official description; EGamers.io — GTA 6 Trophy List (hidden list). Method labelled inferred: no source confirms the exact trigger at launch."
+  },
+  {
+   "id": 38,
+   "name": "Challenging Tank",
+   "description": "Kinda hot in these Rhinos.",
+   "grade": "bronze",
+   "kind": "world",
+   "hidden": true,
+   "missable": false,
+   "missableNote": "",
+   "stage": 4,
+   "target": null,
+   "guide": "Hidden on PlayStation. 'Rhinos' are the game's tanks, and the description is a joke about the heat inside one — beyond that, the exact trigger is not documented at launch (inferred). The working interpretation is that this involves the military response: Rhinos appear when you push a wanted level to its extreme, and the trophy likely pops for engaging with one — surviving an encounter or destroying one. Treat this as a late-game experiment: go in with heavy weapons, explosives and an escape plan, and try both destroying a Rhino and outlasting one.",
+   "steps": [
+    "Raise your wanted level until the military responds with Rhinos (inferred).",
+    "Engage the Rhino with heavy weapons; destroy it if you can.",
+    "If destruction does not pop it, survive an extended Rhino encounter instead (both methods inferred — see guide)."
+   ],
+   "sources": "Official description; OfZenAndComputing — GTA 6 Trophy List (hidden table, 'Rhino-related challenge'). Trigger labelled inferred: not confirmed at launch."
+  },
+  {
+   "id": 39,
+   "name": "Sneakthief",
+   "description": "Rob a jewelry store without being detected.",
+   "grade": "bronze",
+   "kind": "robberies",
+   "hidden": false,
+   "missable": false,
+   "missableNote": "",
+   "stage": 4,
+   "target": null,
+   "guide": "Rob a jewelry store cleanly: no detection, no alarms, no witnesses raising the alarm. Scout the store first, go in quietly, keep anyone present calm and controlled, and leave before attention arrives. If a run goes loud, walk away and try another store or another night — the trophy only needs one clean robbery.",
+   "steps": [
+    "Choose a jewelry store and watch how it is staffed.",
+    "Enter quietly and complete the robbery without being detected.",
+    "Leave the area before any alarm draws a response."
+   ],
+   "sources": "Official description; EGamers.io — GTA 6 Trophy List (no alarms or witnesses)."
+  },
+  {
+   "id": 40,
+   "name": "Maximum Withdrawal",
+   "description": "Rob 5 Bank Vaults and escape.",
+   "grade": "silver",
+   "kind": "robberies",
+   "hidden": false,
+   "missable": false,
+   "missableNote": "",
+   "stage": 4,
+   "target": { "count": 5, "unit": "bank vaults robbed" },
+   "guide": "Rob 5 bank vaults and escape after each one — a robbery only counts if you get away. Treat each vault as a two-part job: the break-in and the getaway. Plan the escape before you start (fast car staged, route with cover), and vary your banks so police response patterns stay manageable. Tick the counter after every clean getaway.",
+   "steps": [
+    "Pick a bank and stage a fast getaway vehicle nearby.",
+    "Rob the vault, then escape and fully lose the wanted level.",
+    "Repeat at 5 banks in total."
+   ],
+   "sources": "Official description (PlayStation tracks the count to 5); PowerPyx — GTA VI Trophy Guide & Roadmap."
+  },
+  {
+   "id": 41,
+   "name": "A Classic Blitz Play",
+   "description": "Rob an Armored Truck and escape.",
+   "grade": "bronze",
+   "kind": "robberies",
+   "hidden": false,
+   "missable": false,
+   "missableNote": "",
+   "stage": 4,
+   "target": null,
+   "guide": "Rob an armoured truck and escape with the take. Armoured trucks need force to open — explosives or heavy firepower on the rear doors — and guards respond, so bring firepower and a fast car. Once the cash is yours, lose the wanted level completely; the trophy needs the escape, not just the robbery.",
+   "steps": [
+    "Find an armoured truck on the road and follow it to a good spot.",
+    "Force it open and take the money.",
+    "Escape and fully lose the wanted level."
+   ],
+   "sources": "Official description; PowerPyx — GTA VI Trophy Guide & Roadmap."
+  },
+  {
+   "id": 42,
+   "name": "The Goodtime State",
+   "description": "Explore all of Leonida.",
+   "grade": "bronze",
+   "kind": "world",
+   "hidden": false,
+   "missable": false,
+   "missableNote": "",
+   "stage": 4,
+   "target": { "count": 52, "unit": "areas explored" },
+   "guide": "Explore all 52 areas of Leonida — the map fills in as you physically travel through each area. Most of the state reveals itself during the story and strand work; what remains is usually remote coastline, islands and back-country. Finish it with a deliberate road trip (or flights) through any still-dark patches of map, and combine the trip with meditation spots and WAiNK locations so the journey pays three times.",
+   "steps": [
+    "Travel widely during the story; most areas reveal themselves.",
+    "Check the map for any areas still unexplored.",
+    "Tour the remaining areas until all 52 are explored."
+   ],
+   "sources": "Official description (52 areas); PowerPyx — GTA VI Trophy Guide & Roadmap."
+  },
+  {
+   "id": 43,
+   "name": "Pest Control",
+   "description": "Rob an Illegal Operation belonging to each gang.",
+   "grade": "bronze",
+   "kind": "robberies",
+   "hidden": false,
+   "missable": false,
+   "missableNote": "",
+   "stage": 4,
+   "target": { "count": 9, "unit": "gangs robbed" },
+   "guide": "Rob an Illegal Operation belonging to each of the 9 gangs — one operation per gang, spread across their territories. Work territory by territory: identify which gang holds an area, hit one of its operations, and move on. Expect resistance; these are defended sites, so arrive armed and with an exit route.",
+   "steps": [
+    "Identify an Illegal Operation and which gang runs it.",
+    "Rob it and get away.",
+    "Repeat until you have robbed one operation of each of the 9 gangs."
+   ],
+   "sources": "Official description (9 gangs); PowerPyx — GTA VI Trophy Guide & Roadmap."
+  },
+  {
+   "id": 44,
+   "name": "In The Beginning…",
+   "description": "Enjoy a cocktail with a view on Ocean Beach.",
+   "grade": "bronze",
+   "kind": "world",
+   "hidden": true,
+   "missable": false,
+   "missableNote": "",
+   "stage": 4,
+   "target": null,
+   "guide": "No confirmed trigger at launch — PowerPyx marks this one as not yet known, and this guide will not pretend otherwise. What exists is the official description: enjoy a cocktail with a view on Ocean Beach. Community belief (unconfirmed): order a cocktail at a bar or beach venue on Ocean Beach, ideally one overlooking the water, and let the moment play out. If it does not pop at the first venue, try others along the beach — but know that at launch nobody outside the game can tell you which sip counts.",
+   "steps": [
+    "Go to Ocean Beach in free roam.",
+    "Order a cocktail at a beach bar or venue with a view of the water (community belief — unconfirmed).",
+    "Try the beach's venues in turn if the first does not pop it."
+   ],
+   "sources": "PowerPyx — GTA VI Trophy Guide & Roadmap (marks the trigger as not yet known); official description. Method labelled community belief."
+  },
+  {
+   "id": 45,
+   "name": "Capital Offense",
+   "description": "Smash your way out of a vehicle showroom in classic style.",
+   "grade": "bronze",
+   "kind": "world",
+   "hidden": true,
+   "missable": false,
+   "missableNote": "",
+   "stage": 4,
+   "target": null,
+   "guide": "No confirmed trigger at launch — PowerPyx marks this one as not yet known. The description is unusually specific, though: smash your way OUT of a vehicle showroom, 'in classic style'. Community belief (unconfirmed): take a car inside a vehicle showroom and drive it out through the glass front rather than the door. If a showroom lets you drive in, try leaving through the window; if not, this may belong to a specific story or strand moment that players had not isolated on launch day.",
+   "steps": [
+    "Find a vehicle showroom you can get a car into (community belief — unconfirmed).",
+    "Drive the car out through the showroom's glass front.",
+    "If no showroom allows it, watch for a scripted showroom moment during missions and take the destructive exit there."
+   ],
+   "sources": "PowerPyx — GTA VI Trophy Guide & Roadmap (marks the trigger as not yet known); official description. Method labelled community belief."
+  },
+  {
+   "id": 46,
+   "name": "Let’s Go Bowling",
+   "description": "Follow-through at the Kolt & Associates' bowling alley.",
+   "grade": "bronze",
+   "kind": "activities",
+   "hidden": true,
+   "missable": false,
+   "missableNote": "",
+   "stage": 4,
+   "target": null,
+   "guide": "Hidden on PlayStation, but the description points somewhere concrete: the Kolt & Associates' bowling alley, and a 'follow-through'. Play a game of bowling there and finish it — the wording suggests completing the game rather than just starting one. If a full game does not pop it, the follow-through may mean a specific shot (a strike is the natural reading), so keep bowling strikes in mind as the fallback.",
+   "steps": [
+    "Go to the Kolt & Associates' bowling alley.",
+    "Play a full game of bowling to completion.",
+    "If needed, aim for a strike as the 'follow-through' (interpretation — see guide)."
+   ],
+   "sources": "Official description; GTABase — GTA VI Trophies & Achievements; Planet GTA 6 (hidden list)."
+  },
+  {
+   "id": 47,
+   "name": "Personal Best",
+   "description": "A partnership with mass appeal.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "missableNote": "",
+   "stage": 2,
+   "target": null,
+   "guide": "Hidden, and deliberately vague: 'A partnership with mass appeal.' Reported at launch as a story-moment trophy that unlocks during the campaign rather than something you hunt in free roam — several lists group it with the vague story trophies that 'point to story moments, so you'll pick them up by playing'. There is no confirmed separate method, so the honest strategy is simply: play the story with both protagonists, and expect it on the way. If you finish the campaign without it, that — not a free-roam trick — is the news worth checking back for.",
+   "steps": [
+    "Play through the campaign; this is reported to unlock at a story moment.",
+    "Do not grind free roam for it — no confirmed free-roam method exists at launch.",
+    "If it has not popped by the credits, check the sources for post-launch confirmation."
+   ],
+   "sources": "Official description; OfZenAndComputing — GTA 6 Trophy List (groups it with the vague story trophies). Status labelled reported, not confirmed."
+  },
+  {
+   "id": 48,
+   "name": "Actions Speak Louder",
+   "description": "Choices made (for better or worse).",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "missableNote": "",
+   "stage": 2,
+   "target": { "count": 500, "unit": "profile actions" },
+   "guide": "PlayStation tracks a count for this one: 500 actions that change your Criminal Profile. Choices throughout the game — in missions and in the world — nudge that profile, so the steady way to earn it is simply to keep making decisions and playing actively rather than idling. One warning worth heeding from GTA Zone's list: do not push toward the 'Irredeemable' profile — it is permanent. Variety, not extremity, is what fills this counter.",
+   "steps": [
+    "Play actively and take choices as they come, in story and free roam.",
+    "Watch the tracked counter climb toward 500.",
+    "Avoid chasing the Irredeemable profile extreme — it is permanent (per GTA Zone)."
+   ],
+   "sources": "GTA Zone — GTA 6 Trophy List (500 Criminal Profile actions; Irredeemable warning); official tracking (PlayStation tracks the count to 500)."
+  },
+  {
+   "id": 49,
+   "name": "Bad Luck, I Guess",
+   "description": "Second time's the charm.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "missableNote": "",
+   "stage": 2,
+   "target": null,
+   "guide": "No confirmed trigger at launch — PowerPyx marks this one as not yet known. The description, 'Second time's the charm', and U7Buy's summary both point at a second-chance event: something that goes wrong and is then survived or retried successfully. Community belief (unconfirmed): it pops at a scripted moment where a character gets a second chance, most likely during the story — which is why this app files it under story. Play the campaign; if it has not popped by the credits, it joins the short list of launch mysteries rather than anything you can force in free roam.",
+   "steps": [
+    "Play the campaign and take story events as they come (believed story-related).",
+    "Do not waste hours forcing failures in free roam — no source confirms a free-roam method.",
+    "Check the cited sources for the confirmed trigger as post-launch guides land."
+   ],
+   "sources": "PowerPyx — GTA VI Trophy Guide & Roadmap (not yet known); U7Buy — GTA 6 Trophies Guide ('hidden second-chance event; exact method remains unverified'). Method labelled community belief."
+  },
+  {
+   "id": 50,
+   "name": "The Truth Is Out There",
+   "description": "What the hell just happened?",
+   "grade": "bronze",
+   "kind": "world",
+   "hidden": true,
+   "missable": false,
+   "missableNote": "",
+   "stage": 4,
+   "target": null,
+   "guide": "No confirmed trigger at launch — PowerPyx marks this one as not yet known. The description ('What the hell just happened?') and the title's UFO nod suggest witnessing something strange out in the world. Community belief (unconfirmed): a scripted weird event — lights in the sky, something unexplainable in the swamps or at night — that you have to be present for. There is no sourced location or time, so the practical advice is only this: explore at night, do not fast-travel past the countryside, and if something odd happens, stay and watch it play out.",
+   "steps": [
+    "Explore Leonida's remote areas, including at night (community belief — unconfirmed).",
+    "If a strange event starts, stay and witness it fully.",
+    "Check the cited sources for a confirmed location as post-launch reports land."
+   ],
+   "sources": "PowerPyx — GTA VI Trophy Guide & Roadmap (not yet known); official description. Method labelled community belief."
+  },
+  {
+   "id": 51,
+   "name": "Ten Pin",
+   "description": "Bowl 'em over with a melee drive-by.",
+   "grade": "bronze",
+   "kind": "world",
+   "hidden": true,
+   "missable": false,
+   "missableNote": "",
+   "stage": 4,
+   "target": null,
+   "guide": "Hidden, and PowerPyx lists its exact trigger as not yet known — but the description is a concrete instruction: bowl someone over with a melee drive-by. The working method (from the description itself): from a moving vehicle — a bike gives you the clearest swing — perform a melee attack as you pass a pedestrian or enemy and knock them down with it. Whether it needs one victim, a specific victim, or several in a row is unconfirmed at launch; start with one clean knockdown, and if that does not pop it, try knocking down several in a single pass, bowling-style.",
+   "steps": [
+    "Get on a motorcycle or in a vehicle that allows melee drive-bys.",
+    "Ride past a pedestrian or enemy and melee them as you pass, knocking them down.",
+    "If one knockdown does not pop it, try several in one pass (unconfirmed variation — see guide)."
+   ],
+   "sources": "Official description; PowerPyx — GTA VI Trophy Guide & Roadmap (exact trigger not yet known). Method from the description, labelled unconfirmed in its details."
+  },
+  {
+   "id": 52,
+   "name": "Dime on the Dollar",
+   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+   "grade": "bronze",
+   "kind": "money",
+   "hidden": false,
+   "missable": false,
+   "missableNote": "",
+   "stage": 6,
+   "target": { "count": 250000, "unit": "dollars laundered" },
+   "guide": "Launder a cumulative $250,000 of Marked Bills through your contacts. Marked bills come from scores and robberies, so this pairs naturally with the robberies stage: bank the marked money, run it through your laundering contacts whenever you are holding some, and let the totals add up. It is a money-pipeline habit rather than a single event — keep the pipeline moving and the counter on this card will get there.",
+   "steps": [
+    "Collect Marked Bills from robberies and scores.",
+    "Launder them through your contacts regularly instead of sitting on them.",
+    "Repeat until $250,000 has been laundered in total."
+   ],
+   "sources": "Official description (PlayStation tracks the total); PowerPyx — GTA VI Trophy Guide & Roadmap."
+  },
+  {
+   "id": 53,
+   "name": "Treat Yo Self",
+   "description": "Spend $100,000 across all shops.",
+   "grade": "bronze",
+   "kind": "money",
+   "hidden": false,
+   "missable": false,
+   "missableNote": "",
+   "stage": 6,
+   "target": { "count": 100000, "unit": "dollars spent" },
+   "guide": "Spend a cumulative $100,000 across all shops — clothes, weapons, vehicles, services, everything counts as long as it is shop spending. Most players cross this line without trying somewhere in the money stage, especially once garages and high-end gear enter the picture. If you are short late in the run, outfitting both protagonists fully is the fastest honest way to close the gap.",
+   "steps": [
+    "Spend at shops as you play; do not hoard cash you do not need.",
+    "Buy garages, vehicles and gear during the money stage.",
+    "Top up with full outfits/wardrobes for both characters if you are short of $100,000."
+   ],
+   "sources": "Official description (PlayStation tracks the total); PowerPyx — GTA VI Trophy Guide & Roadmap."
+  },
+  {
+   "id": 54,
+   "name": "Little Boxes",
+   "description": "Purchase all garage properties.",
+   "grade": "bronze",
+   "kind": "money",
+   "hidden": false,
+   "missable": false,
+   "missableNote": "",
+   "stage": 6,
+   "target": { "count": 8, "unit": "garages bought" },
+   "guide": "Buy all 8 garage properties on the map. This is the money stage's big purchase: fund it with story payouts, robbery takes and laundering, then sweep the property markers one by one. Garages also make Whip It Good and On the Spot easier, since they give your discovered vehicles somewhere to live — buy them before the final vehicle sweep.",
+   "steps": [
+    "Build your bankroll through story, robberies and laundering first.",
+    "Buy each garage property from its map marker.",
+    "Confirm all 8 are owned; the trophy pops on the last purchase."
+   ],
+   "sources": "Official description (8 garage properties); PowerPyx — GTA VI Trophy Guide & Roadmap."
+  },
+  {
+   "id": 55,
+   "name": "On the Spot",
+   "description": "Register 10 vehicles to the Scooter Bros app.",
+   "grade": "bronze",
+   "kind": "money",
+   "hidden": false,
+   "missable": false,
+   "missableNote": "",
+   "stage": 6,
+   "target": { "count": 10, "unit": "vehicles registered" },
+   "guide": "Register 10 vehicles to the Scooter Bros app. Vehicles you have discovered (see Whip It Good) can be registered; pick ten you actually like, register them one by one in the app, and the trophy is done. A small, satisfying closer for the money stage — and a reason to keep your favourite finds instead of abandoning them.",
+   "steps": [
+    "Discover vehicles by driving them (see Whip It Good).",
+    "Open the Scooter Bros app and register a vehicle you own or have found.",
+    "Register 10 vehicles in total."
+   ],
+   "sources": "Official description; PowerPyx — GTA VI Trophy Guide & Roadmap."
+  }
+ ]
+}
