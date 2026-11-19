@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leonida Legend — GTA VI Trophy Guide &amp; Tracker</title>
+<meta name="description" content="A fully offline guide and progress tracker for all 55 Grand Theft Auto VI PlayStation 5 trophies: sourced guides, a platinum roadmap, missable warnings and a spoiler shield.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="hero">
+  <svg class="hero-art" viewBox="0 0 1280 300" preserveAspectRatio="xMidYMid slice" aria-hidden="true" focusable="false">
+    <defs>
+      <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="#1b0f38"/>
+        <stop offset="0.45" stop-color="#5b1e5e"/>
+        <stop offset="0.72" stop-color="#c93a6b"/>
+        <stop offset="1" stop-color="#ff9a5c"/>
+      </linearGradient>
+      <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="#ff9a5c"/>
+        <stop offset="0.25" stop-color="#8e2a63"/>
+        <stop offset="1" stop-color="#12082b"/>
+      </linearGradient>
+      <radialGradient id="sun" cx="0.5" cy="0.5" r="0.5">
+        <stop offset="0" stop-color="#ffe9a8"/>
+        <stop offset="0.7" stop-color="#ffb45e"/>
+        <stop offset="1" stop-color="#ff7e5f"/>
+      </radialGradient>
+    </defs>
+    <rect x="0" y="0" width="1280" height="212" fill="url(#sky)"/>
+    <rect x="0" y="212" width="1280" height="88" fill="url(#sea)"/>
+    <circle cx="640" cy="212" r="86" fill="url(#sun)"/>
+    <g fill="#2a1245">
+      <rect x="0" y="150" width="90" height="62"/>
+      <rect x="96" y="128" width="54" height="84"/>
+      <rect x="156" y="164" width="120" height="48"/>
+      <rect x="1010" y="140" width="70" height="72"/>
+      <rect x="1086" y="118" width="48" height="94"/>
+      <rect x="1140" y="158" width="140" height="54"/>
+    </g>
+    <g fill="#ffd9a0" opacity="0.85">
+      <rect x="108" y="140" width="6" height="8"/><rect x="122" y="156" width="6" height="8"/>
+      <rect x="1098" y="130" width="6" height="8"/><rect x="1110" y="148" width="6" height="8"/>
+      <rect x="30" y="164" width="6" height="8"/><rect x="1030" y="154" width="6" height="8"/>
+    </g>
+    <g stroke="#0d0518" stroke-width="7" fill="none" stroke-linecap="round">
+      <path d="M120 300 C 128 250, 132 220, 126 176"/>
+      <path d="M126 178 C 100 158, 74 154, 52 162"/>
+      <path d="M126 178 C 132 152, 148 138, 170 132"/>
+      <path d="M126 178 C 112 156, 96 146, 76 144"/>
+      <path d="M126 178 C 146 162, 168 158, 188 164"/>
+      <path d="M1150 300 C 1142 252, 1138 224, 1144 182"/>
+      <path d="M1144 184 C 1118 164, 1092 160, 1070 168"/>
+      <path d="M1144 184 C 1150 158, 1166 144, 1188 138"/>
+      <path d="M1144 184 C 1130 162, 1114 152, 1094 150"/>
+      <path d="M1144 184 C 1164 168, 1186 164, 1206 170"/>
+    </g>
+    <g stroke="#ffb45e" stroke-width="3" opacity="0.5" stroke-linecap="round">
+      <path d="M560 236 h120"/><path d="M596 254 h84"/><path d="M566 272 h60"/>
+    </g>
+  </svg>
+  <div class="hero-text">
+    <p class="hero-kicker">Grand Theft Auto VI · PlayStation 5 · All 55 trophies</p>
+    <h1>Leonida Legend</h1>
+    <p class="hero-sub">The offline trophy guide &amp; tracker: a sourced guide for every trophy, a seven-stage roadmap to the platinum, the one missable warning that matters, and a spoiler shield for all 28 hidden trophies.</p>
+  </div>
+</header>
+
+<main>
+  <section class="panel dashboard" aria-label="Your progress">
+    <div class="dash-top">
+      <div class="dash-count">
+        <span id="earned-count">0</span><span class="dash-of">/ 55 earned</span>
+        <span id="earned-pct" class="dash-pct">0%</span>
+      </div>
+      <div class="dash-actions">
+        <button id="export" type="button">Export progress</button>
+        <label class="btn-file">Import progress<input id="import" type="file" accept="application/json,.json"></label>
+        <button id="reset" type="button" class="danger">Reset</button>
+      </div>
+    </div>
+    <div class="progress-track" role="progressbar" aria-label="Trophies earned" aria-valuemin="0" aria-valuemax="55" aria-valuenow="0" id="progress-track">
+      <div class="progress-fill" id="progress-fill"></div>
+    </div>
+    <div class="grade-chips" id="grade-chips"></div>
+    <p class="dash-note" id="dash-note"></p>
+    <p class="dash-msg" id="dash-msg" role="status"></p>
+  </section>
+
+  <section class="panel roadmap" id="roadmap" aria-label="Roadmap to the platinum"></section>
+
+  <section class="panel controls" aria-label="Filters">
+    <div class="control-row">
+      <label class="search-label">Search
+        <input id="f-search" type="search" placeholder="Name, description, guide text…" autocomplete="off">
+      </label>
+      <label>Status
+        <select id="f-status">
+          <option value="all">All trophies</option>
+          <option value="earned">Earned</option>
+          <option value="unearned">Not yet earned</option>
+        </select>
+      </label>
+      <label>Kind
+        <select id="f-kind">
+          <option value="all">All kinds</option>
+        </select>
+      </label>
+    </div>
+    <div class="control-row">
+      <div class="chip-group" id="f-grades" role="group" aria-label="Filter by grade">
+        <button type="button" data-grade="all" class="chip active">All grades</button>
+        <button type="button" data-grade="platinum" class="chip">Platinum</button>
+        <button type="button" data-grade="gold" class="chip">Gold</button>
+        <button type="button" data-grade="silver" class="chip">Silver</button>
+        <button type="button" data-grade="bronze" class="chip">Bronze</button>
+      </div>
+      <label class="toggle"><input id="f-missable" type="checkbox"> Missable only</label>
+      <label class="toggle"><input id="f-shield" type="checkbox" checked> Spoiler shield (hide hidden trophies)</label>
+    </div>
+  </section>
+
+  <section id="trophy-list" aria-label="Trophy list"></section>
+  <p id="empty-state" class="empty" hidden>No trophies match those filters. Loosen a filter — or take it as a sign the run is nearly done.</p>
+</main>
+
+<footer class="panel foot">
+  <h2>About this guide &amp; its sources</h2>
+  <p id="data-note"></p>
+  <ul id="source-list" class="source-list"></ul>
+  <p class="foot-fine">Leonida Legend is a fan-made tracker. It is not affiliated with Rockstar Games or PlayStation, uses no official artwork or logos, and runs entirely from its own files — your progress never leaves your browser. Trophy names, descriptions and grades are the official PlayStation list, shown as published; every guide is written for this app and cites its sources.</p>
+</footer>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>
